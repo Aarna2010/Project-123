@@ -1,0 +1,52 @@
+.heading
+{
+    color:white;
+    font-size:30px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 10px 10px rgb(218, 79, 128);
+    font-family:monospace;
+    font-variant: small-caps;
+    letter-spacing: 3px;
+    font-weight: 800;
+    background-color: black;
+}
+.note
+{
+    color: white;
+    font-size:12px;
+    font-family:monospace;
+    letter-spacing: 0;
+    word-spacing: -2px;
+    font-variant:normal;
+    font-weight: 0;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom:0;
+    width:100%;
+    background-color: rgb(247, 78, 179);
+    text-align: center;
+    line-height: 2;
+    font-size:20;
+    font-family: fantasy;
+    letter-spacing: 2px;
+    box-shadow: 1px -7px 5px rgb(116, 0, 114);
+
+}
+
+canvas
+{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px rgb(251, 96, 171);
+}
+
+.name
+{
+    font-size: 25px;
+    font-family: cursive;
+    color:rgb(101, 0, 69);
+}
